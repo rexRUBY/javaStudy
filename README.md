@@ -16,3 +16,5 @@
 ![어플리케이션 기획서_2021671029_박예서_8](https://user-images.githubusercontent.com/87340601/210105115-c6739683-438b-496a-ae5b-4947e02532dd.png)
 
 ![어플리케이션 기획서_2021671029_박예서_9](https://user-images.githubusercontent.com/87340601/210105118-0fed14a0-bec8-42ec-9764-d90c0f54bac6.png)
+
+![image](https://user-images.githubusercontent.com/87340601/210105427-f1650e3f-abdc-46a1-a95f-49b2dbd3720e.png)
